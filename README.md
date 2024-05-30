@@ -1,4 +1,4 @@
-# docufy
+# Docufy
 
 Welcome to **docufy**, an AI-powered writing and document management platform designed to supercharge your writing process. This Next.js project is bootstrapped with `create-next-app` and optimized for performance and ease of use.
 
