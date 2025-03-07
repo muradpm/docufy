@@ -115,21 +115,6 @@ Docufy is built with modern technologies for optimal performance and developer e
 
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project Structure
-
-```
-docufy/
-├── app/                # Next.js App Router pages and layouts
-├── components/         # Reusable UI components
-├── hooks/              # Custom React hooks
-├── lib/                # Utility functions and shared logic
-├── public/             # Static assets
-│   └── landing/        # Landing page assets
-│       └── screenshots/# Feature screenshots
-├── styles/             # Global styles
-└── tests/              # Test files
-```
-
 ## Deployment
 
 ### Deploy on Vercel
