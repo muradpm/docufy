@@ -1,9 +1,9 @@
 
-<a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="public/landing/screenshots
+
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="/landing/screenshots
 /secondary-feature.jpeg">
   <h1 align="center">Docufy</h1>
-</a>
+
 
 <p align="center">
   AI-powered writing and document management platform designed to supercharge your writing process.
