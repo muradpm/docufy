@@ -1,6 +1,13 @@
-# Docufy
 
-Welcome to **docufy**, an AI-powered writing and document management platform designed to supercharge your writing process. This Next.js project is bootstrapped with `create-next-app` and optimized for performance and ease of use.
+<a href="https://chat.vercel.ai/">
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="/public/landing/screenshots
+/secondary-feature.jpeg">
+  <h1 align="center">Docufy</h1>
+</a>
+
+<p align="center">
+  AI-powered writing and document management platform designed to supercharge your writing process.
+</p>
 
 ## Getting Started
 
