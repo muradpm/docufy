@@ -1,6 +1,6 @@
 
 <a href="https://chat.vercel.ai/">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="/public/landing/screenshots
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="public/landing/screenshots
 /secondary-feature.jpeg">
   <h1 align="center">Docufy</h1>
 </a>
