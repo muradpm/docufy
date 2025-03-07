@@ -32,6 +32,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - **AI-powered Enhancements:** Elevate your writing with AI-powered analysis.
 - **Progress Tracking:** Monitor your writing progress over time.
 
+## AI Capabilities
+
+- **Smart Autocomplete:** Enhance your writing flow with intelligent sentence completion.
+  ![AI Autocomplete Feature](./public/landing/screenshots/primary-feature-completion.jpeg)
+- **Contextual Insights:** Discover related content across your documents for cohesive writing.
+  ![AI Contextual Insights Feature](./public/landing/screenshots/primary-feature-context.jpeg)
+- **Grammar Perfection:** Automatically correct grammar errors for polished writing.
+  ![AI Grammar Correction Feature](./public/landing/screenshots/primary-feature-grammar.jpeg)
+
 ## Project Structure
 
 - `app/`: Contains the Next.js pages and components.
