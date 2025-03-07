@@ -1,9 +1,5 @@
-
-
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="/landing/screenshots
-/secondary-feature.jpeg">
+  <img alt="AI-powered writing and document management platform." src="./public/landing/screenshots/secondary-feature.jpeg">
   <h1 align="center">Docufy</h1>
-
 
 <p align="center">
   AI-powered writing and document management platform designed to supercharge your writing process.
