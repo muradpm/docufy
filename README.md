@@ -25,12 +25,14 @@
 
 ## AI Capabilities
 
-- **Smart Autocomplete:** Enhance your writing flow with intelligent sentence completion
-  ![AI Autocomplete Feature](./public/landing/screenshots/primary-feature-completion.jpeg)
-- **Contextual Insights:** Discover related content across your documents for cohesive writing
-  ![AI Contextual Insights Feature](./public/landing/screenshots/primary-feature-context.jpeg)
-- **Grammar Perfection:** Automatically correct grammar errors for polished writing
-  ![AI Grammar Correction Feature](./public/landing/screenshots/primary-feature-grammar.jpeg)
+**Smart Autocomplete:** Enhance your writing flow with intelligent sentence completion
+![AI Autocomplete Feature](./public/landing/screenshots/primary-feature-completion.jpeg)
+
+**Contextual Insights:** Discover related content across your documents for cohesive writing
+![AI Contextual Insights Feature](./public/landing/screenshots/primary-feature-context.jpeg)
+
+**Grammar Perfection:** Automatically correct grammar errors for polished writing
+![AI Grammar Correction Feature](./public/landing/screenshots/primary-feature-grammar.jpeg)
 
 ## Tech Stack
 
